@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/luan-macedo-silva-48b7a9252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luan-macedo-silva-48b7a9252" height="30" width="40" /></a>
 <a href="https://instagram.com/macedoluan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="macedoluan12" height="30" width="40" /></a>
 <a href="mailto:lu.m3105@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    <img  img align="center" width="40" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </p>
 
