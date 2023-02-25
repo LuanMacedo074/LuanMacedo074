@@ -1,5 +1,5 @@
 <h1 align="center">Ola! eu sou Luan Macedo Silva</h1>
-<h3 align="center">Desenvolvedor backend PHP.</h3>
+<h3 align="center">Desenvolvedor fullstack.</h3>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
