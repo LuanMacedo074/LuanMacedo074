@@ -64,6 +64,9 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuanMacedo074&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMacedo074&layout=compact&theme=tokyonight&hide_border=true&hide=groovy,java,c%2B%2B,thrift,hiveql,perl,antlr,cmake" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuanMacedo074&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuanMacedo074&theme=tokyonight" alt="Top languages by commit"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LuanMacedo074&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
